@@ -16,4 +16,4 @@ sudo systemctl start docker && \
 sudo usermod -aG docker ubuntu
 
 echo "✅ Docker installed. Now CTRL-D to close this SSH connection, then SSH again into your VM."
-echo "😡😡 If you installed Docker on your local system (e.g. WSL, MAC, local VM), you didn't pay attention to my instructions 😡😡
+echo "😡😡 If you installed Docker on your local system (e.g. WSL, MAC, local VM), you didn't pay attention to my instructions 😡😡"
